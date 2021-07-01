@@ -1,6 +1,6 @@
 # Hello;
 
-My name is Jaciara. 🌙 I am a front-end enthusiast 💻
+My name is Jaciara. 🌙 
 
 > "I wanna be defined by the things that i love"
 
